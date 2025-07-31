@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @glitch21-dev
 - 👀 I’m interested in ...Java and application development
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ...Python, Dart and C
 - 💞️ I’m looking to collaborate on ...various projects hopfully
 - 📫 How to reach me ...pirilacabanda5@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...the/goat lol
 - ⚡ Fun fact: ...i am a student
 
 <!---
