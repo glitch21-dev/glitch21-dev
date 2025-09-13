@@ -2,9 +2,9 @@
 - 👀 I’m interested in ...Java and application development
 - 🌱 I’m currently learning ...Python, Dart and C
 - 💞️ I’m looking to collaborate on ...various projects hopfully
-- 📫 How to reach me ...pirilacabanda5@gmail.com
+- 📫 How to reach me ...pirilacbanda5@gmail.com
 - 😄 Pronouns: ...the/goat lol
-- ⚡ Fun fact: ...i am a student
+- ⚡ Fun fact: ...ahhhhhhhh
 
 <!---
 glitch21-dev/glitch21-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
