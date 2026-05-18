@@ -16,32 +16,32 @@
 
 A third-year Computer Science student under the **School of Engineering and Technology**, with a deep interest in **Software Engineering**, **Large Language Models**, and **DevOps**. I build things that solve real problems — from backend systems to AI-powered apps.
 
-- 👀 **Interested in** — Java, application development, system-level programming, DevOps, full-stack development, and AI/ML engineering
-- 🌱 **Currently learning** — Django, Node.js, Angular, Flutter, C, and C++
-- 💻 **I work with** — Java, Python, JavaScript, TypeScript, Dart, C, SQL, Git, Linux (BlackArch, Arch)
-- 🧠 **Exploring** — APIs, Cloud Computing, Mobile App Development, Networking, Backend Engineering, Machine Learning, LLMs, and low-level concepts
-- 📱 **I build** — Desktop apps, mobile apps, backend systems, AI-powered tools, and practical university + real-world projects
-- 💞️ **Looking to collaborate on** — Open-source projects, Java/Python apps, Flutter apps, backend systems, AI/LLM experiments, and learning-focused builds
-- 🎮 **Outside coding** — Gaming, tech deep dives, films, and ricing Linux
-- 📫 **Reach me at** — Pirilacbanda5@gmail.com
-- 😄 **Pronouns** — the / goat 🐐
-- ⚡ **Fun fact** — I switched to Linux to suffer productively — and honestly, best decision I ever made.
+- **Interested in** — Java, application development, system-level programming, DevOps, full-stack development, and AI/ML engineering
+-  **Currently learning** — Django, Node.js, Angular, Flutter, C, and C++
+-  **I work with** — Java, Python, JavaScript, TypeScript, Dart, C, SQL, Git, Linux (BlackArch, Arch)
+-  **Exploring** — APIs, Cloud Computing, Mobile App Development, Networking, Backend Engineering, Machine Learning, LLMs, and low-level concepts
+-  **I build** — Desktop apps, mobile apps, backend systems, AI-powered tools, and practical university + real-world projects
+-  **Looking to collaborate on** — Open-source projects, Java/Python apps, Flutter apps, backend systems, AI/LLM experiments, and learning-focused builds
+-  **Outside coding** — Gaming, tech deep dives, films, and ricing Linux
+- **Reach me at** — Pirilacbanda5@gmail.com
+- **Pronouns** — the / goat 🐐
+-  **Fun fact** — I switched to Linux to suffer productively — and honestly, best decision I ever made.
 
 ---
 
-## 🛠️ Current / Recent Projects
+##  Current / Recent Projects
 
 ### 🤖 AI & ML Projects
-- 🖐️ **Gesture-Controlled Mouse** — Control your cursor using hand landmarks via webcam *(Python, OpenCV, MediaPipe, PyAutoGUI)*
-- 🕵️ **Web Activity Monitor AI** — Detects and classifies user web activity patterns in real time, flagging anomalies and idle behaviour *(Python, Scikit-learn)*
-- 🌐 **Intelligent Web Scraper** — AI-assisted scraper that extracts, cleans, and summarizes structured data from websites *(Python, BeautifulSoup, OpenAI API)*
-- 🧠 **Local LLM Chat Interface** — A lightweight chat UI powered by a locally running LLM for offline AI interaction *(Python, Ollama, Gradio)*
-- 📄 **AI Document Summarizer** — Paste or upload any document and get a concise AI-generated summary *(Python, HuggingFace Transformers)*
-- 😤 **Sentiment Analysis Tool** — Classifies text input as positive, negative, or neutral using NLP *(Python, NLTK, Scikit-learn)*
-- 🔍 **RAG Pipeline (Basic)** — A Retrieval-Augmented Generation pipeline that answers questions from custom documents *(Python, LangChain, FAISS)*
-- 🎥 **Motion Tracking Camera** — Detects and follows motion in real time *(Python, OpenCV)*
+- **Gesture-Controlled Mouse** — Control your cursor using hand landmarks via webcam *(Python, OpenCV, MediaPipe, PyAutoGUI)*
+-  **Web Activity Monitor AI** — Detects and classifies user web activity patterns in real time, flagging anomalies and idle behaviour *(Python, Scikit-learn)*
+- **Intelligent Web Scraper** — AI-assisted scraper that extracts, cleans, and summarizes structured data from websites *(Python, BeautifulSoup, OpenAI API)*
+-  **Local LLM Chat Interface** — A lightweight chat UI powered by a locally running LLM for offline AI interaction *(Python, Ollama, Gradio)*
+-  **AI Document Summarizer** — Paste or upload any document and get a concise AI-generated summary *(Python, HuggingFace Transformers)*
+- **Sentiment Analysis Tool** — Classifies text input as positive, negative, or neutral using NLP *(Python, NLTK, Scikit-learn)*
+-  **RAG Pipeline (Basic)** — A Retrieval-Augmented Generation pipeline that answers questions from custom documents *(Python, LangChain, FAISS)*
+- **Motion Tracking Camera** — Detects and follows motion in real time *(Python, OpenCV)*
 
-### 📱 App & System Projects
+### App & System Projects
 - 🏥 **Medical Diagnosis App** — Full-stack app with ML-powered diagnosis backend *(Flutter + Scikit-learn + Node.js + MySQL)*
 - 👥 **Employee Management System** — Data-driven management system with visual analytics *(FastAPI + MySQL + Matplotlib + Java)*
 - 🚗 **Secure Vehicle Tracking System** — GUI-based tracking with secure data handling *(Java + JDBC)*
