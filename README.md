@@ -10,21 +10,21 @@
 
 ---
 
-## 📌 About Me
+## About Me
 
 👋 Hi, I'm **@glitch21-dev**
 
 A third-year Computer Science student under the **School of Engineering and Technology**, with a deep interest in **Software Engineering**, **Large Language Models**, and **DevOps**. I build things that solve real problems — from backend systems to AI-powered apps.
 
 - **Interested in** — Java, application development, system-level programming, DevOps, full-stack development, and AI/ML engineering
--  **Currently learning** — Django, Node.js, Angular, Flutter, C, and C++
+-  **Currently learning** — Node.js, Angular, C, and C++
 -  **I work with** — Java, Python, JavaScript, TypeScript, Dart, C, SQL, Git, Linux (BlackArch, Arch)
 -  **Exploring** — APIs, Cloud Computing, Mobile App Development, Networking, Backend Engineering, Machine Learning, LLMs, and low-level concepts
 -  **I build** — Desktop apps, mobile apps, backend systems, AI-powered tools, and practical university + real-world projects
 -  **Looking to collaborate on** — Open-source projects, Java/Python apps, Flutter apps, backend systems, AI/LLM experiments, and learning-focused builds
 -  **Outside coding** — Gaming, tech deep dives, films, and ricing Linux
 - **Reach me at** — Pirilacbanda5@gmail.com
-- **Pronouns** — the / goat 🐐
+- **Pronouns** — the / goat 
 -  **Fun fact** — I switched to Linux to suffer productively — and honestly, best decision I ever made.
 
 ---
@@ -42,14 +42,14 @@ A third-year Computer Science student under the **School of Engineering and Tech
 - **Motion Tracking Camera** — Detects and follows motion in real time *(Python, OpenCV)*
 
 ### App & System Projects
-- 🏥 **Medical Diagnosis App** — Full-stack app with ML-powered diagnosis backend *(Flutter + Scikit-learn + Node.js + MySQL)*
-- 👥 **Employee Management System** — Data-driven management system with visual analytics *(FastAPI + MySQL + Matplotlib + Java)*
-- 🚗 **Secure Vehicle Tracking System** — GUI-based tracking with secure data handling *(Java + JDBC)*
-- 📊 **DSA Implementations** — Deep dives into data structures, algorithms, and LeetCode
+- **Medical Diagnosis App** — Full-stack app with ML-powered diagnosis backend *(Flutter + Scikit-learn + Node.js + MySQL)*
+-  **Employee Management System** — Data-driven management system with visual analytics *(FastAPI + MySQL + Matplotlib + Java)*
+-  **Secure Vehicle Tracking System** — GUI-based tracking with secure data handling *(Java + JDBC)*
+- **DSA Implementations** — Deep dives into data structures, algorithms, and LeetCode
 
 ---
 
-## 🧠 Focus Areas
+## Focus Areas
 
 - 🤖 AI/ML Research & LLMs
 - 📱 Mobile Application Development
@@ -58,7 +58,7 @@ A third-year Computer Science student under the **School of Engineering and Tech
 
 ---
 
-## 🌐 Socials
+##  Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pilira-banda-03b135360"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
@@ -71,7 +71,7 @@ A third-year Computer Science student under the **School of Engineering and Tech
 
 ---
 
-## 📊 GitHub Stats & Trophies
+## GitHub Stats & Trophies
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glitch21-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
@@ -92,7 +92,7 @@ A third-year Computer Science student under the **School of Engineering and Tech
 
 ---
 
-## ⚡ LeetCode Stats
+## LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/glitch21-dev?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
@@ -100,7 +100,7 @@ A third-year Computer Science student under the **School of Engineering and Tech
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 > ### Programming Languages
 <p align="center">
