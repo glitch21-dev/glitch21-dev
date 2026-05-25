@@ -12,9 +12,9 @@
 
 ## About Me
 
-👋 Hi, I'm **@glitch21-dev**
+Hi, I'm **@glitch21-dev**
 
-A third-year Computer Science student under the **School of Engineering and Technology**, with a deep interest in **Software Engineering**, **Large Language Models**, and **DevOps**. I build things that solve real problems — from backend systems to AI-powered apps.
+A fourth-year Computer Science student under the **School of Engineering and Technology**, with a deep interest in **Software Engineering**, **Large Language Models**, and **DevOps**. I build things that solve real problems — from backend systems to AI-powered apps.
 
 - **Interested in** — Java, application development, system-level programming, DevOps, full-stack development, and AI/ML engineering
 -  **Currently learning** — Node.js, Angular, C, and C++
@@ -51,10 +51,10 @@ A third-year Computer Science student under the **School of Engineering and Tech
 
 ## Focus Areas
 
-- 🤖 AI/ML Research & LLMs
-- 📱 Mobile Application Development
-- ⛓️ Blockchain
-- 🔧 Backend Frameworks & DevOps
+- AI/ML Research & LLMs
+- Mobile Application Development
+- Blockchain
+- Backend Frameworks & DevOps
 
 ---
 
